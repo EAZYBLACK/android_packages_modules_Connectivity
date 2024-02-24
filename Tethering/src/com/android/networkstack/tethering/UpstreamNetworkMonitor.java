@@ -55,6 +55,8 @@ import com.android.networkstack.apishim.common.ConnectivityManagerShim;
 import com.android.networkstack.apishim.common.UnsupportedApiLevelException;
 import com.android.networkstack.tethering.util.PrefixUtils;
 
+import lineageos.providers.LineageSettings;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Objects;

@@ -149,6 +149,8 @@ import com.android.networkstack.tethering.util.TetheringUtils;
 import com.android.networkstack.tethering.util.VersionedBroadcastListener;
 import com.android.networkstack.tethering.wear.WearableConnectionManager;
 
+import lineageos.providers.LineageSettings;
+
 import java.io.FileDescriptor;
 import java.io.PrintWriter;
 import java.net.InetAddress;
